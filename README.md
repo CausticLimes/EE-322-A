@@ -7,13 +7,13 @@
 <sub>Styled text in subscript</sub>
 <sup>Styled text in superscript</sup>
 
-- this is one type of list
+- this is one type of list (using -)
 - another entry in the list
 
-* this is another type of list
+* this is another type of list (using *)
 * another entry in the list
 
-+ this is yet another type of list
++ this is yet another type of list (using +)
 + another entry in the list
 
 1. finally, a numbered list
