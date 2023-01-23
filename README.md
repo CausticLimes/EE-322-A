@@ -3,7 +3,7 @@
 *Styled text in italics*
 ~~Styled text in strikethrough~~
 **Styled text in bold and _nested_ italics**
-***Styled text in bold and italics**
+***Styled text in bold and italics***
 <sub>Styled text in subscript</sub>
 <sup>Styled text in superscript</sup>
 
