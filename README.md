@@ -19,6 +19,7 @@
 1. finally, a numbered list
 2. another entry in the list
 
+Here is an image:
 ![This is an image](https://i.imgur.com/PWJxtaE.jpeg)
 
 # This is the largest heading
@@ -34,6 +35,6 @@ git commit
 ```
 
 As an extra, here is some colored text:
-This is `#3FD03C`, my favorite color
-Another way of writing it would be `rgb(63, 208, 60)`
-You can even display it as `hsl(119, 71%, 53%)`
+This is #3FD03C, my favorite color
+Another way of writing it would be rgb(63, 208, 60)
+You can even display it as hsl(119, 71%, 53%)
