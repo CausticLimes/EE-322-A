@@ -34,7 +34,5 @@ git add
 git commit
 ```
 
-As an extra, here is some colored text:
-This is #3FD03C, my favorite color
-Another way of writing it would be rgb(63, 208, 60)
-You can even display it as hsl(119, 71%, 53%)
+As an extra, here are a few random emoji:
+☠️🔫🤠
